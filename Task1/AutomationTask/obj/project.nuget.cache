@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MPELq4jkYEE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MAHESH KUMAR\\OneDrive\\Desktop\\code\\AutomationTask\\AutomationTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MAHESH KUMAR\\.nuget\\packages\\selenium.support\\4.52.0\\selenium.support.4.52.0.nupkg.sha512",
+    "C:\\Users\\MAHESH KUMAR\\.nuget\\packages\\selenium.webdriver\\4.52.0\\selenium.webdriver.4.52.0.nupkg.sha512"
+  ],
+  "logs": []
+}
